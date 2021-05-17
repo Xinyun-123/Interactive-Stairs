@@ -1,4 +1,7 @@
-# Interactive-Stars
+# Interactive-Stairs
+
+
+
 3D print the IMU case
 Link: https://www.thingiverse.com/thing:343988 
 
